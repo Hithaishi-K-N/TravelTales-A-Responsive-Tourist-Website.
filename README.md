@@ -1,9 +1,9 @@
 # TravelTales-A-Responsive-Tourist-Website.
 A tourist website with HTML, CSS and JavaScript designed for tourists offering personalized travel itineraries, destination guides, and booking services
 # Features
-*Attractive Video Background
-*Various Destinations
-*Illustrations
+**Attractive Video Background
+**Various Destinations
+**Illustrations
 ![image](https://github.com/user-attachments/assets/4adf40f8-16c0-4a57-b617-ff24938d21d6)
 ![image](https://github.com/user-attachments/assets/22c01d1b-2b2b-4cab-855b-bd1dab259d4c)
 ![image](https://github.com/user-attachments/assets/688d1fa7-f228-473e-9f0f-3cde605a0b39)
